@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    margin-right:400px;
+   margin-top: 3px;
+    background-image: url("bank1.jpg");
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: rgb(83, 52, 168);
+    text-shadow: 20px;
+    font-size:50px;  
+}
+
+input{
+    color:black
+    padding-right:50px;
+    height:30px;
+    width:300px;
+    border:3px solid black;
+    margin-top: 5px;
+}
+button{
+    text-align:center;
+   height:50px;
+    width:100px;
+    margin-top: 5px;
+    margin-bottom:2px;
+    margin-right:3px;
+}
